@@ -4,6 +4,6 @@
 ## Little About The Author
 * Hi, my name is **Yamo Gebrewold** and I am a junior developer.
 * Please take a look at my [portfolio](https://yamo93.github.io/yamogeb/) where I have projects.
-* I am currently available for exciting roles. ![Me](http://www.soundclick.com/images/sitenav/SoundClick_Logo.gif)
+* I am currently available for exciting roles.
 
 ---
