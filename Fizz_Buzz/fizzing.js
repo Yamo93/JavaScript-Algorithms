@@ -18,6 +18,14 @@ console.log(fizzBuzz(15));
 function fizzBuzz2(num) {
     let word = '';
 
+    if (num % 3 === 0) {
+        word = word.concat('fizz');
+    }
+
+    if (num % 5 === 0) {
+        word = word.concat('buzz');
+    }
+
     return word;
 }
 
