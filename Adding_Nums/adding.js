@@ -1,5 +1,5 @@
-function yourFunction(a, b) {
+function addTwoNumbers(a, b) {
     return a + b;
 }
 
-yourFunction(5, 6);
+addTwoNumbers(5, 6);
