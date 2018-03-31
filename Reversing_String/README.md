@@ -5,9 +5,10 @@
 * reversing("Gebrewold") will return **"dlowerbeG"**.
 * reversing("Javascript") will return **"tpircsavaJ"**.
 
-# How I Solved It (Two Solutions):
+# How I Solved It (Three Solutions):
 * 1 parameter.
 * reverse().
 * split().
 * join().
 * for loop.
+* concat().
