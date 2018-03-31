@@ -5,7 +5,7 @@
 * reversing("Gebrewold") will return **"dlowerbeG"**.
 * reversing("Javascript") will return **"tpircsavaJ"**.
 
-# How I Solved It:
+# How I Solved It (Two Solutions):
 * 1 parameter.
 * reverse().
 * split().
